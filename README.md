@@ -12,6 +12,7 @@ F = G * (m1 * m2)/r^2
 G = gravitational constant https://en.wikipedia.org/wiki/Gravitational_constant
 
 
+
 Camera movement:
 
 Zoom: Scroll-Wheel / E & Q
