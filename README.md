@@ -1,6 +1,6 @@
 ## Fun-with-Gravity-in-Unity ##
 
-A simulation of gravitation in Unity
+# A simulation of gravitation in Unity #
 
 This project simulate gravity with multiple objects where each object is affected by each other. The spin movement of the massiv central object shows how the small objects with low mass can affect a massiv object. If an object hit the central object it will be destroyed and a new one is spawned. 
 
