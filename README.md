@@ -26,3 +26,5 @@ Move left: Arrow left
 Move right: Arrow right
 
 Hold left mouse button to move camera
+
+The project was upgraded to Unity 2019
