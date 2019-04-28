@@ -6,8 +6,8 @@ This project simulate gravity with multiple objects where each object is affecte
 
 Every object starts at a random position with a random mass and a random velocity vector. 
 
-The gravitation is calculated by Newton's Law of Gravity. 
-F = G * (m1 * m2)/r^2 
+*The gravitation is calculated by Newton's Law of Gravity. 
+F = G * (m1 * m2)/r^2*
 
 G = gravitational constant https://en.wikipedia.org/wiki/Gravitational_constant
 
