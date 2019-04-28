@@ -13,7 +13,7 @@ G = gravitational constant https://en.wikipedia.org/wiki/Gravitational_constant
 
 
 
-Camera movement:
+### Camera movement: ###
 
 Zoom: Scroll-Wheel / E & Q
 
